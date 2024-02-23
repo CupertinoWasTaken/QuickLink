@@ -10,7 +10,7 @@ take a look at it by the way! Just so that you can understand what it actually d
 To use it in your website, simply add a script tag importing it at the head of your html files:
 ```html
 <head>
-    <script src="link.js" type="module"/>
+    <script src="https://raw.githubusercontent.com/CupertinoWasTaken/QuickLink/main/link.js" type="module">
 </head>
 ```
 Simple as that!
